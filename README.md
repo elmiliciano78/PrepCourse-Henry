@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Un repositorio de prueba del modulo 2 de Henry
+este repositorio es una prueba de como crear un commit desde github
